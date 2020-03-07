@@ -1,9 +1,10 @@
 # Scheduled-Message-Program
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Scheduled Message Program</title>
     <style>
         body {background-color: pink;
         text-align: center;
